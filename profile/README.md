@@ -5,7 +5,7 @@ ____
 
 ### Games
 
-- [Particles](https://github.com/JerboaBurrow/Particles) - A relaxing, interactive particle simulation, Get it free on [Google Play](jerboa.app/particles) 🤖
+- [Particles](https://github.com/JerboaBurrow/Particles) - A relaxing, interactive particle simulation, Get it free on [Google Play](https://jerboa.app/particles) 🤖
 
 ### Software
 
