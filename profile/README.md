@@ -13,4 +13,4 @@ ____
 - [jGL](https://github.com/JerboaBurrow/jGL) - A C++ **graphics library** for 2D graphics abstracting both OpenGL and Vulkan!                🪟, 🐧, 🍎, 🤖
 - [Locker](https://github.com/JerboaBurrow/Locker) - Lightweight **encrypted data store** in Rust                                            🪟, 🐧, 🍎
 - [Pulse](https://github.com/JerboaBurrow/Pulse) - A Rust **Discord/Github Webhook bot** for announcements and stats                         🪟, 🐧, 🍎
-- [Busser](https://github.com/JerboaBurrow/Busser) - Simple **static website hosting** in Rust, runnable **on free-tier cloud services**             🪟, 🐧, 🍎
+- [Busser](https://github.com/JerboaBurrow/Busser) - Simple **website hosting** in Rust, designed for **free-tier cloud services**             🪟, 🐧, 🍎
