@@ -6,6 +6,7 @@ ____
 ### Games
 
 - [Particles](https://github.com/JerboaBurrow/Particles) - A relaxing, interactive particle simulation, Get it free on [Google Play](https://jerboa.app/particles) 🤖
+- [JellyCram](https://github.com/JerboaBurrow/JellyCram) - A "Jelly physics" based take on Tetris, **free soon** on Itch.io and Google Play 🪟, 🐧, 🍎, 🤖
 
 ### Software
 
